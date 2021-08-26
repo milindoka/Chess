@@ -1,0 +1,15 @@
+[Event "Computer Chess Game"]
+[Site "milind-Avita"]
+[Date "2021.08.22"]
+[Round "-"]
+[White "milind"]
+[Black "Fairy-Max 5.0b"]
+[Result "*"]
+[TimeControl "40/600"]
+[Annotator "1... +0.22"]
+
+1. e4 Nc6 {+0.22/9 29} 2. d4 d5 {+0.27/9 26} 3. exd5 Qxd5 {-0.12/9 20} 4.
+Nf3 Nb4 {+0.06/8 19} 5. Nc3 Qf5 {+0.24/8 7} 6. Bd3 Nxd3+ {+0.45/9 13} 7.
+cxd3 Be6 {+0.41/8 8}
+*
+
