@@ -1,0 +1,14 @@
+[Event "?"]
+[Site "?"]
+[Date "2021.08.20"]
+[Round "?"]
+[White "Stockfish 280920"]
+[Black "Player"]
+[Result "1-0"]
+[FEN "rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 1"]
+[SetUp "1"]
+
+1. exd5 Qxd5 2. Nc3 Qa5 3. d4 c5 4. dxc5 e6 (4... e5 5. Nf3 Nc6 6. Bb5 Be6
+(6... Bxc5 7. Qd5) 7. Nxe5) 5. Be3 Bxc5 6. Bb5+ Bd7 7. Bxc5 Bxb5 8. b4 Qa6 9.
+Qg4 g6 10. Qd4 f6 11. Nxb5 Qxb5 12. Qd6 Qd7 13. Qf8# 1-0
+

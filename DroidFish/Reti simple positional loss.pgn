@@ -1,0 +1,13 @@
+[Event "?"]
+[Site "?"]
+[Date "2021.08.23"]
+[Round "?"]
+[White "Stockfish 280920"]
+[Black "Player"]
+[Result "*"]
+[TimeControl "40/600"]
+
+1. Nf3 d5 2. g3 Nc6 (2... e5 3. Nxe5) 3. d4 Bf5 4. Bg2 e6 5. O-O h6 6. c4 Nb4
+7. Nc3 c6 8. a3 Na6 9. Nh4 Bh7 (9... Be4 10. Nxe4) 10. cxd5 exd5 11. e4 dxe4
+12. Nxe4 Be7 13. Re1 Bxh4 14. Nf6+ Kf8 15. Re8+ Qxe8 16. Nxe8 Be7 17. Qb3 *
+
