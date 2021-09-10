@@ -1,0 +1,18 @@
+[Event "Computer Chess Game"]
+[Site "milind-Avita"]
+[Date "2021.08.24"]
+[Round "-"]
+[White "milind"]
+[Black "Stockfish 11 64"]
+[Result "*"]
+[TimeControl "40/600"]
+[Annotator "3... -0.39"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 {-0.39/23 16} 4. Nf3 Nf6 {-0.22/22 10} 5.
+Bc4 Bf5 {-0.13/22 14} 6. d4 Nbd7 {-0.09/21 9} 7. Bf4 e6 {+0.17/21 11} 8. a3
+Bd6 {+0.58/22 8} 9. b4 Bxb4 {+2.06/23 5} 10. axb4 Qxb4 {+2.12/36 0.1} 11.
+O-O Qxc4 {+2.64/21 8} 12. Qd2 O-O {+2.61/26 5} 13. Ra4 Qc6 {+2.77/23 10}
+14. Nh4 Ne4 {+4.00/25 9} 15. Nxf5 exf5 {+4.66/27 14} 16. Nxe4 Qxa4
+{+4.76/26 2.3} 17. Ng5 Qc4 {+5.97/21 10}
+*
+
