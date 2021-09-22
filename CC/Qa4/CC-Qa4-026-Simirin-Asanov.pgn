@@ -1,0 +1,39 @@
+[Event "Edited game"]
+[Site "milind-Avita"]
+[Date "2021.09.21"]
+[Round "-"]
+[White "-"]
+[Black "-"]
+[Result "*"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Bg4 6. h3 Bh5 7. g4 Bg6
+8. Ne5 e6 9. Bg2 c6 10. h4 Nbd7 11. Nxd7 Kxd7 12. Bd2 h5 13. g5 Ng8 14. d5
+exd5 15. Nxd5 Re8+ 16. Ne3 Qa4 17. b3 Qf4 18. Kf1 Kc8 19. Bh3+ Kb8 20. Nd5
+Qd6 21. Bf4 Re5 22. Bxe5 Qxe5 23. Nf6 Qd6 24. Nd7+ Ka8
+*
+
+[Event "Computer Chess Game"]
+[Site "milind-Avita"]
+[Date "2021.09.21"]
+[Round "-"]
+[White "Stockfish 14"]
+[Black "Fairy-Max 5.0b"]
+[Result "*"]
+[TimeControl "40/600"]
+[Annotator "25. +7.53   25... -1.47"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Bg4 6. h3 Bh5 7. g4 Bg6
+8. Ne5 e6 9. Bg2 c6 10. h4 Nbd7 11. Nxd7 Kxd7 12. Bd2 h5 13. g5 Ng8 14. d5
+exd5 15. Nxd5 Re8+ 16. Ne3 Qa4 17. b3 Qf4 18. Kf1 Kc8 19. Bh3+ Kb8 20. Nd5
+Qd6 21. Bf4 Re5 22. Bxe5 Qxe5 23. Nf6 Qd6 24. Nd7+ Ka8 25. Qe2
+{+7.53/28 1:11} Be7 {-1.47/11 26} 26. Re1 {+7.61/27 8} Qd4 {-1.41/10 48}
+27. Qe5 {+7.93/30 0.1} Qxe5 {-1.77/12 21} 28. Nxe5 {+7.82/30 11} Bxc2
+{-2.89/13 39} 29. Nxf7 {+8.23/31 13} Rh7 {-1.94/12 23} 30. Kg2 {+8.21/26 8}
+g6 {-1.90/12 18} 31. Ne5 {+8.30/28 15} Rg7 {-1.59/12 27} 32. Re2
+{+8.42/30 41} Bf5 {-2.12/13 16} 33. Bxf5 {+8.76/29 38} gxf5 {-2.10/14 29}
+34. Nf3 {+8.76/29 13} c5 {-2.02/12 27} 35. Rd1 {+8.95/29 49} Kb8
+{-2.15/12 17} 36. Rd5 {+8.90/30 1:55} Kc7 {-2.40/12 33} 37. Re6
+{+9.12/29 47} b6 {-2.57/12 37} 38. Kf1 {+9.23/31 56} Bf8 {-2.60/12 25} 39.
+Ne5 {+9.34/26 33} f4 {-3.03/12 22}
+*
+
