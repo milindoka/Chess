@@ -1,0 +1,21 @@
+[Event "Computer Chess Game"]
+[Site "milind-Avita"]
+[Date "2022.08.13"]
+[Round "-"]
+[White "milind"]
+[Black "Fairy-Max 5.0b"]
+[Result "1-0"]
+[TimeControl "40/600"]
+[Annotator "6... +0.71"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Nxc3 Nf6 6. e5 Ng4
+{+0.71/9 12} 7. Qe2 Bc5 {+0.85/9 11} 8. h3 Nh6 {+0.50/10 49} 9. Bxh6 gxh6
+{+0.58/9 13} 10. O-O-O O-O {+1.10/9 14} 11. Qe4 Ne7 {+0.92/8 8} 12. Qf4 Ng6
+{+0.38/9 38} 13. Qxh6 Be7 {+0.22/8 9} 14. h4 Re8 {+0.00/8 10} 15. Ng5 Bxg5+
+{-0.30/10 10} 16. hxg5 Rxe5 {-0.62/10 13} 17. f4 Rf5 {-2.86/10 22} 18. g4
+Rxf4 {-2.43/11 24} 19. Qxh7+ Kf8 {-2.42/11 11} 20. Qh6+ Kg8 {-6.71/11 20}
+21. Nd5 Qe8 {-11.35/11 21} 22. Nf6+ Rxf6 {-1000.05/16 7} 23. gxf6 Qe3+
+{-1000.04/28 4} 24. Qxe3 Kf8 {-1000.03/28 1.4} 25. Rh8+ Nxh8 {-1000.02/28}
+26. Qh6+ Kg8 {-1000.01/28 0.1} 27. Qg7#
+{Xboard adjudication: Checkmate} 1-0
+
