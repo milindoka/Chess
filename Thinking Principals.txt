@@ -1,1 +1,2 @@
-Before taking out bishop check whether knight pawn is hanging and can be attacked by Queen. 
+Before taking out bishop check whether knight pawn is hanging and can be attacked by Queen.
+Pinning releases some squares for your pieces. 
