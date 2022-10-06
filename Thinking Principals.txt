@@ -1,2 +1,5 @@
 Before taking out bishop check whether knight pawn is hanging and can be attacked by Queen.
 Pinning releases some squares for your pieces. 
+keep eye on check to your king and opponent king before each move
+check hanging of both sides all the time
+
