@@ -1,0 +1,20 @@
+[Event "Computer Chess Game"]
+[Site "milind-Avita"]
+[Date "2022.12.16"]
+[Round "-"]
+[White "milind"]
+[Black "Stockfish 14"]
+[Result "0-1"]
+[TimeControl "40/600"]
+[Annotator "3... -0.32"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 f5 {-0.32/23 17} 4. Bxg8 Rxg8 {-0.01/28 50} 5.
+exf5 e4 {+2.02/20 5} 6. Ng1 d5 {+1.79/27 0.6} 7. g4 Bc5 {+2.79/20 8} 8. h3
+Qh4 {+7.39/24 9} 9. Rh2 g6 {+5.66/26 28} 10. fxg6 Rxg6 {+9.30/23 9} 11. Kf1
+Bxg4 {+12.15/21 14} 12. Qe1 O-O-O {+13.62/22 0.1} 13. d3 Rdg8
+{+15.46/21 12} 14. dxe4 Bh5 {+1000.08/43 10} 15. Ne2 Rg2 {+1000.07/50 0.1}
+16. Rxg2 Qxh3 {+1000.06/72 0.1} 17. Bg5 Rxg5 {+1000.05/159 0.1} 18. Qc1
+Qxg2+ {+1000.04/245 11} 19. Ke1 Qxf2+ {+1000.03/245 0.1} 20. Kd2 Qe3+
+{+1000.02/245 0.1} 21. Ke1 Qxe2# {+1000.01/245 0.1}
+{Xboard adjudication: Checkmate} 0-1
+

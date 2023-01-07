@@ -1,0 +1,35 @@
+Offline Puzzles From lichess.org
+
+Download Lates Database of Puzzles
+
+https://database.lichess.org/#puzzles
+
+As of today (07-01-23),  this open database contains 3080529 (more than 30 lakhs puzzles)
+
+Unzip the downloaded file lichess_db_puzzle.csv.zst   (154.4 mb)
+
+Extract original file  :  lichess_db_puzzle.csv   (569.9 Mb)
+
+Download offline Puzzle utility which is available in windows and linux at the following link
+
+https://github.com/brianch/offline-chess-puzzles/releases/tag/v2.0.0
+
+Extract the zip.
+
+Folder structure
+
+/offline-chess-puzzles/pieces
+/offline-chess-puzzles/puzzles
+/offline-chess-puzzles/1piece.wav
+/offline-chess-puzzles/2pieces.wav
+/offline-chess-puzzles/LICENSE
+/offline-chess-puzzles/offline-chess-puzzles
+/offline-chess-puzzles/README.md
+/offline-chess-puzzles/settings.json
+
+Copy the CSV database in puzzles folder.
+
+Run the executable.
+Search puzzles as per minimum and maximum rating criteria.
+Then make correct moves.
+Dragging does not work, click two times to move.
